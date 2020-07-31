@@ -1,0 +1,11 @@
+# OS or Platform
+.DS_Store
+
+# Build files
+build
+
+# Coverages
+coverage/
+
+# Dependencies
+node_modules/
